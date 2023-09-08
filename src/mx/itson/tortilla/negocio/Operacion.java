@@ -17,7 +17,7 @@ public class Operacion {
       */
 
     public String[] separar(String oracion) {
-
+            //hola a todos jajaja xD
        String[] resultado = oracion.split("-");
          return resultado;
 
